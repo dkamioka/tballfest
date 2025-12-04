@@ -1,23 +1,19 @@
 # Site settings
 title: "Playbook T-Ball Fest"
 description: "Playbook completo para organização de torneio de T-Ball - Experiências reais e boas práticas"
-baseurl: ""
+baseurl: "/tballfest"
 url: "https://dkamioka.github.io"
 
-# Theme
-theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+# Theme (use remote_theme for GitHub Pages)
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 
 # Color scheme
 color_scheme: light
 
-# Logo
-logo: "/assets/images/logo.png"
-
 # Aux links
 aux_links:
   "GitHub":
-    - "//github.com/dkamioka/tballfest"
+    - "https://github.com/dkamioka/tballfest"
 
 # Footer
 footer_content: "Copyright &copy; 2025 T-Ball Fest. Criado por Diogo Kamioka."
@@ -37,25 +33,9 @@ search:
   rel_url: true
   button: false
 
-# Mermaid diagrams
-mermaid:
-  version: "10.6.0"
-
 # Back to top link
 back_to_top: true
 back_to_top_text: "Voltar ao topo"
-
-# Collections
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-
-# Just the Docs settings
-just_the_docs:
-  collections:
-    docs:
-      name: Documentação
 
 # Enable copy code button
 enable_copy_code_button: true
@@ -78,8 +58,14 @@ kramdown:
     block:
       line_numbers: false
 
-# Exclude files
+# Exclude files from processing
 exclude:
   - tball_analysis.json
   - tball_detailed.json
   - ENTREGA_FINAL.md
+  - PLAYBOOK_TBALL_FEST.md
+  - tball_summary.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
