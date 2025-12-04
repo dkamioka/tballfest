@@ -1,6 +1,20 @@
-# 4. Workstreams Detalhados
+---
+layout: default
+title: Workstreams
+nav_order: 5
+parent: Playbook Estruturado
+has_children: false
+permalink: /playbook_estruturado/workstreams
+---
 
-[← Voltar ao Índice](../INDEX.md)
+# 4. Workstreams Detalhados
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

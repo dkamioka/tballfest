@@ -1,0 +1,34 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Bundler
+.bundle/
+Gemfile.lock
+
+# Ruby
+*.gem
+*.rbc
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*:Zone.Identifier
+
+# Editor files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log

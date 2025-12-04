@@ -1,6 +1,18 @@
-# 5. Materiais & Equipamentos
+---
+layout: default
+title: Materiais & Equipamentos
+nav_order: 5
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 5. Materiais & Equipamentos
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

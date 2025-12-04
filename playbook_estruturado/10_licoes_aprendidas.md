@@ -1,6 +1,18 @@
-# 10. Lições Aprendidas
+---
+layout: default
+title: Lições Aprendidas
+nav_order: 8
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 10. Lições Aprendidas
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

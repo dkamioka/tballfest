@@ -1,9 +1,19 @@
-# 🏆 Playbook: T-Ball Fest
-## Guia Completo para Organização de Torneios de T-Ball Infantil
-
+---
+layout: default
+title: Playbook Estruturado
+nav_order: 2
+has_children: true
+permalink: /playbook_estruturado
 ---
 
-> **Sobre este Playbook**  
+# 🏆 Playbook: T-Ball Fest
+{: .no_toc }
+
+## Guia Completo para Organização de Torneios de T-Ball Infantil
+{: .fs-6 .fw-300 }
+
+{: .note }
+> **Sobre este Playbook**
 > Este documento foi criado a partir da experiência real do **16º T-Ball Fest 2025** realizado no Anhanguera Nikkei Clube em 28-29 de novembro de 2025. Ele serve como um framework open-source para organizar torneios similares em qualquer clube.
 
 ---

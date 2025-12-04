@@ -1,6 +1,18 @@
-# 3. Estrutura Organizacional
+---
+layout: default
+title: Estrutura Organizacional
+nav_order: 4
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 3. Estrutura Organizacional
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

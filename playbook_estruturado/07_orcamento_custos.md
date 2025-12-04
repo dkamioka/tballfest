@@ -1,6 +1,18 @@
-# 7. Orçamento & Custos
+---
+layout: default
+title: Orçamento & Custos
+nav_order: 7
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 7. Orçamento & Custos
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

@@ -1,6 +1,18 @@
-# 1. Visão Geral
+---
+layout: default
+title: Visão Geral
+nav_order: 2
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 1. Visão Geral
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

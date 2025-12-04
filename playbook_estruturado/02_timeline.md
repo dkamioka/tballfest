@@ -1,6 +1,18 @@
-# 2. Timeline & Marcos Temporais
+---
+layout: default
+title: Timeline
+nav_order: 3
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 2. Timeline & Marcos Temporais
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

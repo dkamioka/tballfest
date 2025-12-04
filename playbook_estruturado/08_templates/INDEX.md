@@ -1,6 +1,20 @@
-# 8. Templates & Comunicações
+---
+layout: default
+title: Templates
+nav_order: 9
+parent: Playbook Estruturado
+has_children: false
+permalink: /playbook_estruturado/templates
+---
 
-[← Voltar ao Índice](../INDEX.md)
+# 8. Templates & Comunicações
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

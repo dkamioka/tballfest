@@ -1,6 +1,18 @@
-# 6. Fornecedores & Contatos
+---
+layout: default
+title: Fornecedores & Contatos
+nav_order: 6
+parent: Playbook Estruturado
+---
 
-[← Voltar ao Índice](INDEX.md)
+# 6. Fornecedores & Contatos
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 

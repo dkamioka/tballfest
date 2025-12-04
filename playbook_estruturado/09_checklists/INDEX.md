@@ -1,6 +1,20 @@
-# 9. Checklists Operacionais
+---
+layout: default
+title: Checklists
+nav_order: 10
+parent: Playbook Estruturado
+has_children: false
+permalink: /playbook_estruturado/checklists
+---
 
-[← Voltar ao Índice](../INDEX.md)
+# 9. Checklists Operacionais
+{: .no_toc }
+
+## Índice
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
 
