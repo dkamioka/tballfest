@@ -1,0 +1,666 @@
+{
+  "meta": {
+    "event_name": "16º T-Ball Fest 2025",
+    "event_dates": [
+      "2025-11-29",
+      "2025-11-30"
+    ],
+    "organization_start": "2025-09-09T08:52:47",
+    "organization_end": "2025-12-02T08:50:16",
+    "total_planning_days": 83,
+    "total_messages": 785,
+    "club": "Anhanguera Nikkei Clube",
+    "location": "São Paulo, Brasil"
+  },
+  "milestones": {
+    "grupo_criado": "2025-09-09",
+    "organizacao_inicial": "2025-09-30",
+    "duas_semanas_antes": "2025-11-10",
+    "uma_semana_antes": "2025-11-17",
+    "vespera": "2025-11-28",
+    "evento_dia1": "2025-11-29",
+    "evento_dia2": "2025-11-30",
+    "pos_evento": "2025-12-01"
+  },
+  "responsibilities": {
+    "Coordenação geral": {
+      "responsible": "Rogeria",
+      "assigned_date": "2025-10-01"
+    },
+    "Divulgação": {
+      "responsible": "Henry",
+      "assigned_date": "2025-10-01"
+    },
+    "Patrocínio": {
+      "responsible": "Júlio",
+      "assigned_date": "2025-10-01"
+    },
+    "Alojamento": {
+      "responsible": "Cleber",
+      "assigned_date": "2025-10-01"
+    },
+    "Baiten": {
+      "responsible": "Lili",
+      "assigned_date": "2025-10-01"
+    },
+    "Entretenimento": {
+      "responsible": "Henry",
+      "assigned_date": "2025-10-01"
+    },
+    "Medalhas e Brindes": {
+      "responsible": "Andreia Hirano",
+      "assigned_date": "2025-10-01"
+    },
+    "Campo e melhorias": {
+      "responsible": "Alexandre /Cleber/Eduardo",
+      "assigned_date": "2025-10-01"
+    },
+    "Financeiro": {
+      "responsible": "Nina/ Cleber",
+      "assigned_date": "2025-10-01"
+    },
+    "Abertura / Encerramento": {
+      "responsible": "Henry e Diogo",
+      "assigned_date": "2025-10-01"
+    },
+    "[30/09/2025, 10": {
+      "responsible": "28:02] Rogeria Tball: Pessoal, bom dia",
+      "assigned_date": "2025-09-30"
+    },
+    "[30/09/2025, 12": {
+      "responsible": "26:19] Kenji Matsuda: Bom dia! É possível indicar uma barraca de lanche, para o torneio? ‎<Mensagem editada>",
+      "assigned_date": "2025-09-30"
+    },
+    "Homenagem ao Ozaki": {
+      "responsible": "Juliana",
+      "assigned_date": "2025-10-01"
+    },
+    "[01/10/2025, 11": {
+      "responsible": "24:41] Rogeria Tball: Pessoal, bom dia!",
+      "assigned_date": "2025-10-01"
+    }
+  },
+  "financial": [
+    {
+      "date": "2025-09-30",
+      "amount": "R$200,00",
+      "context": "Há um taxa de R$200,00 para pagamento ao clube da diária.",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-09-30",
+      "amount": "R$200,00",
+      "context": "Confirmei com a Cris......pode sim......Valor de R$200,00 a diária ok",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-11-06",
+      "amount": "R$ 600,00",
+      "context": "- 5 banners: R$ 600,00",
+      "author": "Henry Nagata"
+    }
+  ],
+  "vendors": [
+    {
+      "date": "2025-09-30",
+      "info": "Bom dia! É possível indicar uma barraca de lanche, para o torneio? ‎<Mensagem editada>",
+      "author": "Kenji Matsuda"
+    },
+    {
+      "date": "2025-10-01",
+      "info": "O pessoal da empanada chilena confirmou que irão no tball fest. Posso incluí-los na lista das barracas?",
+      "author": "Kenji Matsuda"
+    },
+    {
+      "date": "2025-10-14",
+      "info": "Precisamos definir o quanto antes por conta do prazo. Este foi o melhor valor que conseguimos para trofeu. Mesmo fornecedor do trofeu do Gigantes",
+      "author": "~ Andreia"
+    },
+    {
+      "date": "2025-10-17",
+      "info": "eu mesma já entrei em contrato com mais de 10 empresas.........e normalmente sempre tem somente os mesmos personagens",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-10-22",
+      "info": "Iremos contratar o mascote somente para o encerramento, período de 3 Horas. Acreditamos que a cerimônia seja de 1 hora no máximo, o que acham?",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-10-23",
+      "info": "Oi pessoal! O Ricardo cobra 850 reais para cobrir 4 campos no domingo! Ano passado contratamos só no domingo, funciona?",
+      "author": "Nina"
+    },
+    {
+      "date": "2025-10-24",
+      "info": "estou fazendo contrato do mascote e preciso colocar os horários de interação e pausa",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-10-24",
+      "info": "período de contratação são de 3 horas",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-11-06",
+      "info": "Cotei com um fornecedor que conheço, Lili.",
+      "author": "Henry Nagata"
+    },
+    {
+      "date": "2025-11-06",
+      "info": "@⁨~Liliane⁩ @⁨Rogeria Tball⁩ posso seguir com o fornecedor que cotei ou vamos com esse de Santana de Parnaíba?",
+      "author": "Henry Nagata"
+    },
+    {
+      "date": "2025-11-07",
+      "info": "Nós contratamos uma empresa",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-11-11",
+      "info": "Vai ter uma barraca de chopp? ",
+      "author": "Cecilia Itikawa 市川あけみ"
+    },
+    {
+      "date": "2025-11-11",
+      "info": "Quais serão as barracas do departamento?",
+      "author": "Cecilia Itikawa 市川あけみ"
+    },
+    {
+      "date": "2025-11-17",
+      "info": "Adesivos, deve dar pra fazer com outro fornecedor... acho que é o de menos. Mas o brinde para os senseis que fica complicado",
+      "author": "Diogo"
+    },
+    {
+      "date": "2025-11-26",
+      "info": "O Marelo falou agora desse fornecedor,  q eles vao patrocinar a parte de hortifruti do baiten",
+      "author": "~ Liliane"
+    }
+  ],
+  "key_decisions": [
+    {
+      "date": "2025-09-30",
+      "time": "12:44",
+      "decision": "ok combinado",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-10-15",
+      "time": "14:13",
+      "decision": "10 clubes confirmados com o ANC - total 14 equipes",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-11-11",
+      "time": "13:54",
+      "decision": "isso! confirmados todos ja meno o Claudio porque nao falei ainda",
+      "author": "Diogo"
+    },
+    {
+      "date": "2025-11-26",
+      "time": "08:41",
+      "decision": "Combinado, Kenji!! 😁",
+      "author": "Henry Nagata"
+    },
+    {
+      "date": "2025-11-28",
+      "time": "06:59",
+      "decision": "Pessoal bom dia. Nós tínhamos combinado de chegar cedo amanhã, para ajudar a colocar os bandeirinhas e etc. ",
+      "author": "JULIO Anhanguera"
+    },
+    {
+      "date": "2025-11-28",
+      "time": "18:04",
+      "decision": "Outra coisa, decidimos que os bazaristas ficarão do lado de fora do salão. Igual semana passada.",
+      "author": "~ Cleber Akio Fugita"
+    },
+    {
+      "date": "2025-11-28",
+      "time": "20:28",
+      "decision": "Portão está fechado , se alguém puder abrir",
+      "author": "Rogeria Tball"
+    }
+  ],
+  "lessons_learned": [
+    {
+      "date": "2025-10-14",
+      "type": "problem",
+      "description": "Precisamos definir o quanto antes por conta do prazo. Este foi o melhor valor que conseguimos para trofeu. Mesmo fornecedor do trofeu do Gigantes",
+      "author": "~ Andreia"
+    },
+    {
+      "date": "2025-10-17",
+      "type": "problem",
+      "description": "então........precisamos de ajuda no mascote",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-10-22",
+      "type": "problem",
+      "description": "@⁨JULIO Anhanguera⁩ bom dia , precisamos dos nomes das empresas de cota master para os banners",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-10-22",
+      "type": "problem",
+      "description": "Bom dia pessoal! Alguém conhece alguma loja que venda essas bolinhas de treino? Para colocar de brinde. Eu só achei na Amazon mas não tem a quantidade suficiente ‎<Mensagem editada>",
+      "author": "~ Andreia"
+    },
+    {
+      "date": "2025-10-23",
+      "type": "problem",
+      "description": "Bom dia pessoal! Precisamos de uma ajuda. Alguém sabe editar o nosso logo em apenas 1 cor (vermelha)? Para as sacolas",
+      "author": "~ Andreia"
+    },
+    {
+      "date": "2025-10-24",
+      "type": "problem",
+      "description": "das 12 as 13h30 não temos nada programado no sentido de abertura e encerramento.",
+      "author": "Diogo"
+    },
+    {
+      "date": "2025-11-12",
+      "type": "problem",
+      "description": "Acho legal para as crianças interagirem. Quantas pessoas você acha que precisamos para ajudar na organização?",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-11-12",
+      "type": "problem",
+      "description": "Precisamos definir o que será para comprar e montar os",
+      "author": "Rogeria Tball"
+    },
+    {
+      "date": "2025-11-17",
+      "type": "problem",
+      "description": "ela disse que a impressora deu problema e está para consertar.",
+      "author": "Diogo"
+    },
+    {
+      "date": "2025-11-25",
+      "type": "problem",
+      "description": "O logo da Verena não está ficando bom pois a imagem que eles enviaram está com resolução muito baixa para o tamanho que precisamos imprimir.",
+      "author": "Henry Nagata"
+    },
+    {
+      "date": "2025-11-27",
+      "type": "problem",
+      "description": "Pessoal no caderninho citamos que precisamos do 2 pessoas do time que não está jogando para fazer juíz, isso se aplicará certo? ‎<Mensagem editada>",
+      "author": "Monique Sato"
+    }
+  ],
+  "timeline_sample": [
+    {
+      "timestamp": "2025-09-09T08:52:47",
+      "date": "2025-09-09",
+      "time": "08:52",
+      "author": "COMISSÃO Tball Fest 2025",
+      "message": "‎As mensagens e ligações são protegidas com a criptografia de ponta a ponta. Somente as pessoas que fazem parte da conversa podem ler, ouvir e compartilhar esse conteúdo."
+    },
+    {
+      "timestamp": "2025-09-09T08:52:47",
+      "date": "2025-09-09",
+      "time": "08:52",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball criou este grupo"
+    },
+    {
+      "timestamp": "2025-09-30T10:25:53",
+      "date": "2025-09-30",
+      "time": "10:25",
+      "author": "COMISSÃO Tball Fest 2025",
+      "message": "‎Rogeria Tball adicionou você"
+    },
+    {
+      "timestamp": "2025-09-30T10:26:05",
+      "date": "2025-09-30",
+      "time": "10:26",
+      "author": "Diogo",
+      "message": "Oi pessoal Key (Diogo) aqui pai do Carlinhos!"
+    },
+    {
+      "timestamp": "2025-09-30T10:27:02",
+      "date": "2025-09-30",
+      "time": "10:27",
+      "author": "Rogeria Tball",
+      "message": "Pessoal organizamos os responsáveis dos setores:"
+    },
+    {
+      "timestamp": "2025-09-30T10:28:02",
+      "date": "2025-09-30",
+      "time": "10:28",
+      "author": "Rogeria Tball",
+      "message": "Pessoal, bom dia "
+    },
+    {
+      "timestamp": "2025-09-30T12:26:19",
+      "date": "2025-09-30",
+      "time": "12:26",
+      "author": "Kenji Matsuda",
+      "message": "Bom dia! É possível indicar uma barraca de lanche, para o torneio? ‎<Mensagem editada>"
+    },
+    {
+      "timestamp": "2025-09-30T12:30:16",
+      "date": "2025-09-30",
+      "time": "12:30",
+      "author": "Rogeria Tball",
+      "message": "Bom dia. Pode me informar qual será, para eu confirmar com o Clube se já existe alguma igual?"
+    },
+    {
+      "timestamp": "2025-09-30T12:30:44",
+      "date": "2025-09-30",
+      "time": "12:30",
+      "author": "Rogeria Tball",
+      "message": "Há um taxa de R$200,00 para pagamento ao clube da diária."
+    },
+    {
+      "timestamp": "2025-09-30T12:34:00",
+      "date": "2025-09-30",
+      "time": "12:34",
+      "author": "Kenji Matsuda",
+      "message": "Eu conheço uma pessoa que faz empanadas chilenas"
+    },
+    {
+      "timestamp": "2025-09-30T12:34:20",
+      "date": "2025-09-30",
+      "time": "12:34",
+      "author": "Kenji Matsuda",
+      "message": "É muito bom"
+    },
+    {
+      "timestamp": "2025-09-30T12:34:42",
+      "date": "2025-09-30",
+      "time": "12:34",
+      "author": "Rogeria Tball",
+      "message": "vou verificar e retorno"
+    },
+    {
+      "timestamp": "2025-09-30T12:35:29",
+      "date": "2025-09-30",
+      "time": "12:35",
+      "author": "Rogeria Tball",
+      "message": "Pessoal, para quem estiver no clube fds poderíamos fazer uma reunião rápida na hora do almoço para alinharmos os preparativos?"
+    },
+    {
+      "timestamp": "2025-09-30T12:38:01",
+      "date": "2025-09-30",
+      "time": "12:38",
+      "author": "Rogeria Tball",
+      "message": "Confirmei com a Cris......pode sim......Valor de R$200,00 a diária ok"
+    },
+    {
+      "timestamp": "2025-09-30T12:38:42",
+      "date": "2025-09-30",
+      "time": "12:38",
+      "author": "Kenji Matsuda",
+      "message": "Show! Obrigado Rogeria. Vou conversar com a pessoa e confirmo aqui."
+    },
+    {
+      "timestamp": "2025-09-30T12:44:52",
+      "date": "2025-09-30",
+      "time": "12:44",
+      "author": "Rogeria Tball",
+      "message": "ok combinado"
+    },
+    {
+      "timestamp": "2025-10-01T10:58:44",
+      "date": "2025-10-01",
+      "time": "10:58",
+      "author": "~ Juliana",
+      "message": "‎Rogeria Tball adicionou ~ Juliana"
+    },
+    {
+      "timestamp": "2025-10-01T10:59:05",
+      "date": "2025-10-01",
+      "time": "10:59",
+      "author": "Rogeria Tball",
+      "message": "Pessoal organizamos os responsáveis dos setores:"
+    },
+    {
+      "timestamp": "2025-10-01T11:24:41",
+      "date": "2025-10-01",
+      "time": "11:24",
+      "author": "Rogeria Tball",
+      "message": "Pessoal, bom dia!"
+    },
+    {
+      "timestamp": "2025-10-01T11:28:58",
+      "date": "2025-10-01",
+      "time": "11:28",
+      "author": "Rogeria Tball",
+      "message": "01/10"
+    },
+    {
+      "timestamp": "2025-10-01T12:45:01",
+      "date": "2025-10-01",
+      "time": "12:45",
+      "author": "Diogo",
+      "message": "Eu só vou domingo 😕"
+    },
+    {
+      "timestamp": "2025-10-01T12:45:30",
+      "date": "2025-10-01",
+      "time": "12:45",
+      "author": "Diogo",
+      "message": "Preciso de uma ajuda na minha parte, nem sei o que fazer para organizar 😅"
+    },
+    {
+      "timestamp": "2025-10-01T12:55:55",
+      "date": "2025-10-01",
+      "time": "12:55",
+      "author": "Cecilia Itikawa 市川あけみ",
+      "message": "Muito bom Rô!!! 😃"
+    },
+    {
+      "timestamp": "2025-10-01T12:56:34",
+      "date": "2025-10-01",
+      "time": "12:56",
+      "author": "Rogeria Tball",
+      "message": "dos times eu deixei na descrição do grupo a relação."
+    },
+    {
+      "timestamp": "2025-10-01T12:57:39",
+      "date": "2025-10-01",
+      "time": "12:57",
+      "author": "Cecilia Itikawa 市川あけみ",
+      "message": "😟 Sorocaba não vem?"
+    },
+    {
+      "timestamp": "2025-10-01T12:57:55",
+      "date": "2025-10-01",
+      "time": "12:57",
+      "author": "Rogeria Tball",
+      "message": "informaram que não 🥲"
+    },
+    {
+      "timestamp": "2025-10-01T12:58:29",
+      "date": "2025-10-01",
+      "time": "12:58",
+      "author": "Kenji Matsuda",
+      "message": "O pessoal da empanada chilena confirmou que irão no tball fest. Posso incluí-los na lista das barracas?"
+    },
+    {
+      "timestamp": "2025-10-01T12:59:06",
+      "date": "2025-10-01",
+      "time": "12:59",
+      "author": "Cecilia Itikawa 市川あけみ",
+      "message": "Oi Diogo!"
+    },
+    {
+      "timestamp": "2025-10-01T13:04:25",
+      "date": "2025-10-01",
+      "time": "13:04",
+      "author": "Rogeria Tball",
+      "message": "ok, pode........informar as necessidades (ponto de tomada), restante será por conta dele ok. Será disponibilizado o espaço."
+    },
+    {
+      "timestamp": "2025-10-01T13:14:32",
+      "date": "2025-10-01",
+      "time": "13:14",
+      "author": "Kenji Matsuda",
+      "message": "01/10"
+    },
+    {
+      "timestamp": "2025-10-01T13:19:57",
+      "date": "2025-10-01",
+      "time": "13:19",
+      "author": "Nina",
+      "message": "Esse patrocínio cota master é de quem? Só pra acompanhar aqui!"
+    },
+    {
+      "timestamp": "2025-10-01T13:22:53",
+      "date": "2025-10-01",
+      "time": "13:22",
+      "author": "Rogeria Tball",
+      "message": "os dois são os que o Julio fez"
+    },
+    {
+      "timestamp": "2025-10-01T13:23:13",
+      "date": "2025-10-01",
+      "time": "13:23",
+      "author": "Rogeria Tball",
+      "message": "se puder complementar com o nome da empresa ‎<Mensagem editada>"
+    },
+    {
+      "timestamp": "2025-10-01T15:54:40",
+      "date": "2025-10-01",
+      "time": "15:54",
+      "author": "JULIO Anhanguera",
+      "message": "Cota master será minha pessoal."
+    },
+    {
+      "timestamp": "2025-10-06T11:31:56",
+      "date": "2025-10-06",
+      "time": "11:31",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball mudou a descrição do grupo"
+    },
+    {
+      "timestamp": "2025-10-06T11:33:31",
+      "date": "2025-10-06",
+      "time": "11:33",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball mudou a descrição do grupo"
+    },
+    {
+      "timestamp": "2025-10-06T12:55:13",
+      "date": "2025-10-06",
+      "time": "12:55",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball mudou a descrição do grupo"
+    },
+    {
+      "timestamp": "2025-10-07T19:31:47",
+      "date": "2025-10-07",
+      "time": "19:31",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball mudou a descrição do grupo"
+    },
+    {
+      "timestamp": "2025-10-08T10:44:17",
+      "date": "2025-10-08",
+      "time": "10:44",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball mudou a descrição do grupo"
+    },
+    {
+      "timestamp": "2025-10-14T17:15:22",
+      "date": "2025-10-14",
+      "time": "17:15",
+      "author": "Rogeria Tball",
+      "message": "Pessoal, boa tarde. Podemos fechar este troféu ao invés de medalhas o que acham?"
+    },
+    {
+      "timestamp": "2025-10-14T17:18:52",
+      "date": "2025-10-14",
+      "time": "17:18",
+      "author": "~ Andreia",
+      "message": "Boa tarde! Acho que trofeu as crianças gostam mais do que medalha"
+    },
+    {
+      "timestamp": "2025-10-14T17:22:34",
+      "date": "2025-10-14",
+      "time": "17:22",
+      "author": "~ Andreia",
+      "message": "Gostei desse modelo, por mim estou de acordo."
+    },
+    {
+      "timestamp": "2025-10-14T17:24:11",
+      "date": "2025-10-14",
+      "time": "17:24",
+      "author": "~ Andreia",
+      "message": "Precisamos definir o quanto antes por conta do prazo. Este foi o melhor valor que conseguimos para trofeu. Mesmo fornecedor do trofeu do Gigantes"
+    },
+    {
+      "timestamp": "2025-10-14T17:46:01",
+      "date": "2025-10-14",
+      "time": "17:46",
+      "author": "~ Andreia",
+      "message": "‎ENQUETE:"
+    },
+    {
+      "timestamp": "2025-10-14T18:56:28",
+      "date": "2025-10-14",
+      "time": "18:56",
+      "author": "Diogo",
+      "message": "@⁨Cecilia Itikawa 市川あけみ⁩ nao consegui participar das reuniões, você ou alguém consegue falar na semana por telefone ou video para eu entender mais do meu papel ? 😅"
+    },
+    {
+      "timestamp": "2025-10-14T20:34:11",
+      "date": "2025-10-14",
+      "time": "20:34",
+      "author": "Rogeria Tball",
+      "message": "‎Rogeria Tball mudou a descrição do grupo"
+    },
+    {
+      "timestamp": "2025-10-15T05:26:24",
+      "date": "2025-10-15",
+      "time": "05:26",
+      "author": "Cecilia Itikawa 市川あけみ",
+      "message": "Bom dia!!!"
+    },
+    {
+      "timestamp": "2025-10-15T05:28:40",
+      "date": "2025-10-15",
+      "time": "05:28",
+      "author": "Cecilia Itikawa 市川あけみ",
+      "message": "Sim!!! Você está responsável pela organização das cerimônias de abertura e encerramento junto com o Henry, certo? "
+    },
+    {
+      "timestamp": "2025-10-15T09:27:47",
+      "date": "2025-10-15",
+      "time": "09:27",
+      "author": "Diogo",
+      "message": "Ixi a gente não vai conseguir ir também 😢"
+    },
+    {
+      "timestamp": "2025-10-15T09:30:16",
+      "date": "2025-10-15",
+      "time": "09:30",
+      "author": "Cecilia Itikawa 市川あけみ",
+      "message": "Qual melhor dia e horário durante a semana?"
+    }
+  ],
+  "phases": {
+    "setup_inicial": {
+      "dias": 21,
+      "descricao": "Criação do grupo até primeira estrutura organizacional"
+    },
+    "planejamento_principal": {
+      "dias": 41,
+      "descricao": "Planejamento de workstreams, patrocínio, fornecedores"
+    },
+    "execucao_intensiva": {
+      "dias": 18,
+      "descricao": "Finalização de materiais, confirmações, checklists"
+    },
+    "evento": {
+      "dias": 2,
+      "descricao": "Execução do torneio"
+    },
+    "pos_evento": {
+      "dias": 3,
+      "descricao": "Pagamentos finais, compartilhamento de fotos"
+    }
+  }
+}
