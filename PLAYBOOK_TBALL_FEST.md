@@ -131,14 +131,15 @@ Promover a integração entre clubes de beisebol infantil, proporcionando uma ex
 **Runbook do Evento:**
 
 #### Sábado (28/11):
-- **07:00** - Chegada dos primeiros organizadores
-- **08:00** - Hasteamento de bandeiras, preparação campos
-- **08:30** - Chegada times, check-in
-- **09:00** - **CERIMÔNIA DE ABERTURA**
+- **05:00 - 05:30** - Chegada dos organizadores para preparar tudo
+- **05:30** - Chegada do som
+- **05:30 - 07:30** - Preparação: testar som, organizar campos, posicionar materiais
+- **07:30** - Chegada times, check-in
+- **08:00** - **CERIMÔNIA DE ABERTURA**
   - Entrada dos times com música (Good Time - Owl City)
   - Hasteamento de bandeiras
   - Discurso de autoridades
-- **09:30** - Início dos jogos (3 campos)
+- **08:40** - Início dos jogos (3-4 campos)
 - **12:00** - Almoço no baiten
 - **13:30** - Continuação dos jogos
 - **15:00** - **Undokai** (jogo dos pais)
@@ -146,14 +147,16 @@ Promover a integração entre clubes de beisebol infantil, proporcionando uma ex
 
 #### Domingo (29/11):
 - **08:00** - Continuação dos jogos
-- **12:00** - Almoço
-- **14:00** - Finais / Jogos de classificação
-- **16:00** - **CERIMÔNIA DE ENCERRAMENTO**
-  - Homenagem ao Sensei Ozaki
+- **12:00 - 14:30** - Preparação para encerramento (Diogo e Henry nem almoçaram)
+  - Organizar troféus, separar sorteios, testar som
+  - **IMPORTANTE**: Preparação antecipada devido à homenagem ao Sensei Ozaki
+- **14:30** - **CERIMÔNIA DE ENCERRAMENTO**
+  - Homenagem ao Sensei Ozaki (agenda excepcional desta edição)
   - Sorteio de brindes
   - Premiação por time
   - Arriar bandeiras
   - Saída com música (Golden - Jungkook)
+- **16:00** - Desmontagem e despedida
 
 ---
 

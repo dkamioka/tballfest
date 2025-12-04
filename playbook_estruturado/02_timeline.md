@@ -228,20 +228,21 @@ parent: Playbook Estruturado
 
 ### Sábado - Dia 1 (28/11)
 
-#### 06:00 - 08:30 | Preparação
-- **07:00**: Chegada dos primeiros organizadores
-- **07:30**: Testar som e equipamentos
-- **08:00**: Revisar campos, posicionar lousas
-- **08:00**: Chegada times hospedados (alojamento)
-- **08:30**: Chegada times externos
+#### 05:00 - 08:00 | Preparação
+- **05:00 - 05:30**: Chegada dos organizadores para organizar tudo
+- **05:30**: Chegada do som (Cláudio)
+- **05:30 - 06:30**: Testar som e equipamentos
+- **06:30 - 07:30**: Revisar campos, posicionar lousas, preparar materiais
+- **07:00**: Chegada times hospedados (alojamento)
+- **07:30**: Chegada times externos
 
-#### 08:30 - 09:00 | Check-in
+#### 07:30 - 08:00 | Check-in
 - Recepção dos times
 - Distribuir plaquinhas para corredor
 - Organizar ordem de entrada
 - Distribuir pompoms para voluntários
 
-#### 09:00 - 09:40 | 🎉 CERIMÔNIA DE ABERTURA
+#### 08:00 - 08:40 | 🎉 CERIMÔNIA DE ABERTURA
 
 **Roteiro**:
 1. **Entrada dos Times** (10-15 min)
@@ -272,7 +273,7 @@ parent: Playbook Estruturado
 - **Corredor (pompoms)**: Voluntários (10-15 pessoas)
 - **Organização**: Rogeria
 
-#### 09:40 - 12:00 | Jogos - Manhã
+#### 08:40 - 12:00 | Jogos - Manhã
 - **3-4 campos** rodando simultaneamente
 - **Duração por jogo**: 1h20 ou 5 innings
 - **Retaguarda**: Voluntários designados
@@ -311,29 +312,31 @@ parent: Playbook Estruturado
 - Continuação da tabela de jogos
 - Jogos de classificação
 
-#### 12:00 - 13:30 | Almoço
-- Baiten + barracas
-
-#### 13:30 - 15:30 | Jogos Finais
-- Finais e/ou últimos jogos de classificação
+#### 12:00 - 14:30 | Preparação para Encerramento + Jogos Finais
+- **12:00 - 13:00**: Últimos jogos finalizando
+- **12:00 - 14:30**: Preparação simultânea para encerramento
+  - Organizar troféus por time (em caixas separadas)
+  - Separar itens de sorteio
+  - Preparar perfilamento dos times
+  - Testar som
+  - **IMPORTANTE**: Diogo e Henry trabalharam sem parar, nem almoçaram
 - **Fotógrafo**: Chegada (08:00)
 
-#### 15:30 - 16:00 | Preparação para Encerramento
-- Organizar troféus por time (em caixas separadas)
-- Separar itens de sorteio
-- Preparar perfilamento dos times
-- Testar som
+{: .warning }
+> **Agenda Excepcional**
+> A preparação começou às 12h devido à homenagem ao Sensei Ozaki, que exigiu organização antecipada. Em eventos regulares, a preparação pode começar mais próxima do horário do encerramento.
 
-#### 16:00 - 17:30 | 🏆 CERIMÔNIA DE ENCERRAMENTO
+#### 14:30 - 16:00 | 🏆 CERIMÔNIA DE ENCERRAMENTO
 
 **Roteiro**:
 1. **Perfilamento dos Times** (5 min)
    - Times entram em ordem
    - Posicionam-se no campo
 
-2. **Homenagem ao Sensei Ozaki** (5-10 min)
+2. **Homenagem ao Sensei Ozaki** (5-10 min) ⭐
    - Discurso da Juliana
    - Momento de silêncio / aplausos
+   - **NOTA**: Esta foi uma agenda excepcional para esta edição do torneio
 
 3. **Sorteio de Brindes** (30-40 min)
    - 1-2 sorteios por time
@@ -367,7 +370,7 @@ parent: Playbook Estruturado
 - **Sorteio**: Nina (controle dos itens)
 - **Corredor**: Voluntários
 
-#### 17:30 - 18:30 | Desmontagem
+#### 16:00 - 17:00 | Desmontagem
 - Recolher banners
 - Guardar materiais reutilizáveis
 - Limpeza geral
