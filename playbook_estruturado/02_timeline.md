@@ -36,6 +36,19 @@ parent: Playbook Estruturado
 
 ### Gantt Chart Detalhado
 
+![Gantt Chart - 16º T-Ball Fest 2025](../../assets/images/gantt-chart-tball-fest-2025.png)
+*Clique na imagem para ampliar*
+
+{: .note }
+> **Visualização Interativa**: O gráfico acima mostra a timeline completa de 83 dias de planejamento, organizada em 5 fases principais com todas as atividades e marcos críticos do projeto.
+
+---
+
+### Gantt Chart em Texto (Versão Alternativa)
+
+<details markdown="1">
+<summary>Clique para ver versão em texto ASCII</summary>
+
 ```
 ATIVIDADE                     SET        OUT        NOV        DEZ
                            |09  16  23|30  07  14  21  28|04  11  18  25|29-30|01  08
@@ -72,6 +85,8 @@ Fase 5: Pós-Evento                                                             
 
 LEGENDA: ██ Atividade em execução
 ```
+
+</details>
 
 ### Calendário de Marcos Importantes
 
