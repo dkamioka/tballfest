@@ -90,6 +90,27 @@ LEGENDA: ██ Atividade em execução
 
 ### Calendário de Marcos Importantes
 
+![Calendário de Marcos - 16º T-Ball Fest 2025]({{ site.baseurl }}/assets/images/calendario-marcos-tball-fest-2025.png)
+*Visualização em calendário dos marcos críticos do projeto*
+
+{: .tip }
+> **Datas Críticas Destacadas**:
+> - 09/09 - Início do projeto
+> - 30/09 - Estrutura RACI completa
+> - 15/10 - 10 clubes confirmados
+> - 10/11 - Sprint final (2 semanas antes)
+> - 17/11 - Reunião presencial
+> - 28/11 - Véspera
+> - **29-30/11 - EVENTO** 🏆
+> - 01/12 - Pós-evento inicia
+
+---
+
+### Calendário em Texto (Versão Alternativa)
+
+<details markdown="1">
+<summary>Clique para ver versão em texto ASCII</summary>
+
 ```
 SETEMBRO                    OUTUBRO                     NOVEMBRO
 DOM SEG TER QUA QUI SEX SAB DOM SEG TER QUA QUI SEX SAB DOM SEG TER QUA QUI SEX SAB
@@ -123,6 +144,8 @@ DOM SEG TER QUA QUI SEX SAB
 
 * Datas críticas
 ```
+
+</details>
 
 ---
 
