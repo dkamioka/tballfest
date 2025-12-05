@@ -94,7 +94,7 @@ Guia Completo para Organização de Torneios de T-Ball Infantil
 
 ### Timeline Resumida
 
-[![Gantt Chart - 16º T-Ball Fest 2025](assets/images/gantt-chart-tball-fest-2025.png)](playbook_estruturado/02_timeline#gantt-chart-detalhado)
+[![Gantt Chart - 16º T-Ball Fest 2025]({{ site.baseurl }}/assets/images/gantt-chart-tball-fest-2025.png)]({{ site.baseurl }}/playbook_estruturado/02_timeline#gantt-chart-detalhado)
 *📊 Clique para ver a timeline completa e interativa*
 
 ```

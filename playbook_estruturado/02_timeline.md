@@ -36,7 +36,7 @@ parent: Playbook Estruturado
 
 ### Gantt Chart Detalhado
 
-![Gantt Chart - 16º T-Ball Fest 2025](../../assets/images/gantt-chart-tball-fest-2025.png)
+![Gantt Chart - 16º T-Ball Fest 2025]({{ site.baseurl }}/assets/images/gantt-chart-tball-fest-2025.png)
 *Clique na imagem para ampliar*
 
 {: .note }
