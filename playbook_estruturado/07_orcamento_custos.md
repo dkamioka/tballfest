@@ -18,35 +18,49 @@ parent: Playbook Estruturado
 
 ## 💰 Estrutura Financeira (2025)
 
-### Receitas
+### Receitas Totais: R$ 20.200,00
 
 | Fonte | Valor |
 |-------|-------|
-| Patrocínio Cota Master | R$ 3.000 |
-| Patrocínio Cota Livro | R$ 200 |
-| Barracas (6 × R$200 × 2) | R$ 2.400 |
-| **TOTAL** | **R$ 5.600** |
+| Patrocínios | R$ 15.100,00 |
+| Inscrições | R$ 5.100,00 |
+| **TOTAL** | **R$ 20.200,00** |
 
-### Despesas Estimadas
+---
 
-| Categoria | Valor |
-|-----------|-------|
-| Troféus (140) | R$ 2.500 - 3.500 |
-| Itens sorteio | R$ 1.480 |
-| Sacolinhas | R$ 1.500 - 2.000 |
-| Som (2 dias) | R$ 800 |
-| Fotógrafo | R$ 500 - 800 |
-| Banners/adesivos | R$ 600 |
-| Bexigas | R$ 300 - 500 |
-| Infláveis | R$ 800 - 1.200 |
-| Mascote | R$ 400 - 600 |
-| Carreto | R$ 300 - 500 |
-| Imprevistos (10%) | R$ 500 - 800 |
-| **TOTAL** | **R$ 9.680 - 12.880** |
+### Despesas Reais: R$ 14.015,60
 
-### Resultado
+| Item | Valor | Observações |
+|------|-------|-------------|
+| Troféus | R$ 2.226,40 | ~140 unidades |
+| Bolinhas | R$ 2.571,71 | Para sorteio e premiação |
+| Sacola plástico com logo | R$ 302,49 | Embalagem para kits |
+| Brindes para sorteio | R$ 1.000,00 | Itens para sorteio durante evento |
+| Presente senseis (11) | R$ 1.100,00 | Homenagem aos técnicos |
+| Lembranças para ajudantes | R$ 1.050,00 | Agradecimento voluntários |
+| Banner patrocinadores | R$ 900,00 | Divulgação de patrocinadores |
+| Mascote | R$ 850,00 | Animação durante cerimônias |
+| Fotos | R$ 850,00 | Fotógrafo profissional |
+| Som | R$ 800,00 | Sistema de som 2 dias |
+| Infláveis + almoço | R$ 920,00 | Recreação + alimentação equipe |
+| Doces sacolinha | R$ 500,00 | Doces para kits das crianças |
+| Chaveiro | R$ 495,00 | Brinde adicional |
+| Frete colchões | R$ 400,00 | Transporte para alojamento |
+| Carta pokemon | R$ 50,00 | Brinde adicional |
+| **TOTAL DESPESAS** | **R$ 14.015,60** | |
 
-**Déficit**: R$ 4.000 - 7.000 (coberto por categoria/clube)
+---
+
+### Resultado Final
+
+| Item | Valor |
+|------|-------|
+| Receitas | R$ 20.200,00 |
+| Despesas | R$ 14.015,60 |
+| **Saldo Positivo** | **R$ 6.184,40** |
+
+{: .note }
+> O saldo positivo pode ser utilizado para reserva de emergência para próximas edições ou investimento em melhorias para o evento seguinte.
 
 ---
 

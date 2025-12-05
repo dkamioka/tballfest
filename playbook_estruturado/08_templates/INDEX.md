@@ -3,7 +3,7 @@ layout: default
 title: Templates
 nav_order: 9
 parent: Playbook Estruturado
-has_children: false
+has_children: true
 permalink: /playbook_estruturado/templates
 ---
 
@@ -20,17 +20,22 @@ permalink: /playbook_estruturado/templates
 
 ## 📝 Templates Disponíveis
 
-### Comunicação
-
-1. **[Primeira Mensagem ao Grupo](01_primeira_mensagem.md)**
-2. **[Update Semanal](02_update_semanal.md)**
-3. **[Convite a Convidados](03_convite_convidados.md)**
-4. **[Comunicação com Times](04_comunicacao_times.md)**
-
 ### Cerimônias
 
-5. **[Script de Abertura](05_script_abertura.md)**
-6. **[Script de Encerramento](06_script_encerramento.md)**
+**[Scripts Completos de Cerimônias](scripts_cerimonias)** ⭐
+- Roteiro minuto a minuto de abertura e encerramento
+- Discursos prontos (português e japonês)
+- Checklists de preparação
+- Músicas com links do YouTube
+- Dicas para MCs
+
+### Em Desenvolvimento
+
+Os seguintes templates serão adicionados em futuras versões:
+- Primeira Mensagem ao Grupo
+- Update Semanal
+- Convite a Convidados
+- Comunicação com Times
 
 ---
 

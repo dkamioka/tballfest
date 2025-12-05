@@ -34,6 +34,81 @@ parent: Playbook Estruturado
    09/set          30/set          10/nov        28-29/nov   01/dez+
 ```
 
+### Gantt Chart Detalhado
+
+```
+ATIVIDADE                     SET        OUT        NOV        DEZ
+                           |09  16  23|30  07  14  21  28|04  11  18  25|29-30|01  08
+───────────────────────────────────────────────────────────────────────────────────────
+Fase 1: Setup Inicial      ████████████████████
+│ Grupo WhatsApp           ██
+│ Definir data/local       ████
+│ Comissão organizadora    ████████
+│ Estrutura RACI           ████████████████████
+
+Fase 2: Planejamento                    ██████████████████████████████████████████████
+│ Convidar times                        ████████████
+│ Buscar patrocinadores                 ██████████████████████
+│ Contratar fornecedores                          ████████████████████
+│ Encomendar materiais                                  ██████████████
+│ Organizar alojamento                              ████████████████████
+
+Fase 3: Execução Intensiva                                            ██████████████████
+│ Coletar delegações                                                ████████
+│ Montar livreto                                                        ████████████
+│ Preparar sacolinhas                                                   ██████████
+│ Limpar campos                                                         ████████
+│ Tabela de jogos                                                           ██████
+│ Véspera - Setup final                                                          ██
+
+Fase 4: Evento                                                                      ████
+│ Dia 1 (Sábado)                                                                  ██
+│ Dia 2 (Domingo)                                                                   ██
+
+Fase 5: Pós-Evento                                                                    ████
+│ Pagamentos                                                                        ██
+│ Distribuir fotos                                                                   ██
+│ Documentar lições                                                                   ██
+
+LEGENDA: ██ Atividade em execução
+```
+
+### Calendário de Marcos Importantes
+
+```
+SETEMBRO                    OUTUBRO                     NOVEMBRO
+DOM SEG TER QUA QUI SEX SAB DOM SEG TER QUA QUI SEX SAB DOM SEG TER QUA QUI SEX SAB
+    09* 10  11  12  13  14          01  02  03  04  05                          01  02
+    │                                   │                                        │
+    └─ Início                           └─ Estrutura OK                         └─ 4 semanas
+
+15  16  17  18  19  20  21  06  07  08  09  10  11  12  03  04  05  06  07  08  09
+                                │                                            │
+                                └─ Patrocínios começam                       └─ 3 semanas
+
+22  23  24  25  26  27  28  13  14  15* 16  17  18  19  10* 11  12  13  14  15  16
+                                    │                       │
+                                    └─ Times confirmados    └─ Sprint final!
+
+29  30* 31              01  20  21  22  23  24  25  26  17* 18  19  20  21  22  23
+    │                            │                           │
+    └─ Fase 2 inicia             └─ 5 semanas                └─ Reunião presencial
+
+                        27  28  29  30  31          01  24  25  26  27  28* 29  30*
+                                                                            │   │   │
+                                                                            │   │   └─ EVENTO!
+                                                                            │   └─ EVENTO!
+                                                                            └─ Véspera
+
+DEZEMBRO
+DOM SEG TER QUA QUI SEX SAB
+01* 02  03  04  05  06  07
+│
+└─ Pós-evento
+
+* Datas críticas
+```
+
 ---
 
 ## 📍 Marcos Temporais
@@ -242,36 +317,45 @@ parent: Playbook Estruturado
 - Organizar ordem de entrada
 - Distribuir pompoms para voluntários
 
-#### 08:00 - 08:40 | 🎉 CERIMÔNIA DE ABERTURA
+#### 08:00 - 08:30 | 🎉 CERIMÔNIA DE ABERTURA
 
-**Roteiro**:
-1. **Entrada dos Times** (10-15 min)
-   - Música: "Good Time" - Owl City ft. Carly Rae Jepsen
+**Roteiro Detalhado**:
+
+**08:00-08:10 (10min)** - Perfilamento das equipes
+   - 🎵 Música: ["Good Time" - Owl City ft. Carly Rae Jepsen](https://www.youtube.com/watch?v=_Ee76C_RBWM)
    - Corredor de pompoms
-   - Times entram com placa do nome
+   - Times entram na ordem: Tozan, São José, Ibiúna, Gigantes, Gecebs, Cooper Tere, Cooper Saru, Cooper Alex, Blue Jays, Bastos
+   - Times anfitriões entram por último: ANC Reds, ANC Blues, ANC Futuro (Cafés-com-leite)
    - Posicionam-se no campo
 
-2. **Hasteamento de Bandeiras** (3-5 min)
+**08:10-08:15 (5min)** - Hasteamento das bandeiras com Hino Nacional
+   - 🎵 [Hino Nacional Brasileiro](https://www.youtube.com/watch?v=PmPomD5QCp8)
    - Bandeira do Brasil
    - Bandeiras dos clubes participantes
 
-3. **Palavras de Autoridades** (15-20 min)
-   - Presidente do clube anfitrião (5 min)
-   - Diretor de Beisebol/Softbol (5 min)
-   - Secretário de Esportes (5 min, se presente)
-   - Outros convidados (conforme disponibilidade)
+**08:15-08:20 (5min)** - Programação do dia
+   - Anunciar horários:
+     - Café da manhã: 07h-09h
+     - Almoço: 11h30-14h
+     - Jantar: 18h-19h30
+   - Mini-undokai (sábado): 14h30 no Campo 01
+   - Anunciar primeiros jogos
 
-4. **Declaração de Abertura** (2 min)
-   - Coordenador geral: "Declaro aberto o 16º T-Ball Fest!"
+**08:20-08:25 (5min)** - Discurso de abertura
+   - Coordenador geral e/ou convidados
+   - Mensagem motivacional
+   - "PLAY BALL!"
 
-5. **Saída dos Times** (5 min)
+**08:25-08:30 (5min)** - Saída com música para os jogos
+   - 🎵 Música: "Centerfield" - John Fogerty
    - Times se dirigem aos campos
 
 **Responsáveis**:
 - **MC**: Henry/Diogo
-- **Som**: Cláudio
-- **Corredor (pompoms)**: Voluntários (10-15 pessoas)
-- **Organização**: Rogeria
+- **Som**: Cláudio [(11) 95805-0770]
+- **Voluntários para orientar entrada**: Nina, Luciano, Juliana
+- **Hasteamento de bandeiras**: Henry, Jorge, Fugi, Felipe, Zeka
+- **Placas dos times**: Preparadas na ordem de entrada
 
 #### 08:40 - 12:00 | Jogos - Manhã
 - **3-4 campos** rodando simultaneamente
@@ -326,51 +410,59 @@ parent: Playbook Estruturado
 > **Agenda Excepcional**
 > A preparação começou às 12h devido à homenagem ao Sensei Ozaki, que exigiu organização antecipada. Em eventos regulares, a preparação pode começar mais próxima do horário do encerramento.
 
-#### 14:30 - 16:00 | 🏆 CERIMÔNIA DE ENCERRAMENTO
+#### 14:00 - 14:45 | 🏆 CERIMÔNIA DE ENCERRAMENTO
 
-**Roteiro**:
-1. **Perfilamento dos Times** (5 min)
-   - Times entram em ordem
+**Roteiro Detalhado**:
+
+**14:00-14:10 (10min)** - Perfilamento das equipes
+   - 🎵 Música: ["Golden" - Jungkook](https://www.youtube.com/watch?v=yebNIHKAC4A)
+   - **MASCOTE anima o corredor de pompoms durante entrada dos times**
+   - Times entram na mesma ordem da abertura
    - Posicionam-se no campo
 
-2. **Homenagem ao Sensei Ozaki** (5-10 min) ⭐
-   - Discurso da Juliana
-   - Momento de silêncio / aplausos
+**14:10-14:15 (5min)** - Homenagem ao Sensei Ozaki ⭐
+   - 🎵 Música de fundo: ["Funky Monkeys Babys"](https://www.youtube.com/watch?v=ir5cF-EvBig)
+   - Entrega do scrapbook
+   - Discurso (português e japonês)
+   - Foto de todos do ANC com sensei Ozaki
    - **NOTA**: Esta foi uma agenda excepcional para esta edição do torneio
 
-3. **Sorteio de Brindes** (30-40 min)
+**14:15-14:20 (5min)** - Entrega dos kits com troféus e brindes
+   - 🎵 Música de fundo: ["Major" (anime)](https://www.youtube.com/watch?v=p6hTuZGPwrY)
+   - Convidar senseis de cada time
+   - Senseis pegam caixas com troféus de seus times
+   - Distribuem individualmente para cada criança
+
+**14:20-14:30 (10min)** - Sorteio de brindes
    - 1-2 sorteios por time
    - Anunciar item + time sorteado
    - Criança vem à frente buscar
 
-4. **Discurso de Agradecimento** (5 min)
+**14:30-14:35 (5min)** - Discursos de convidados e encerramento
+   - Convidar para palavras: Jorge, Fugi, Marelo, Secretário
    - Coordenação geral agradece:
      - Times participantes
      - Voluntários
      - Patrocinadores
      - Clube anfitrião
+   - **Momento especial**: Arriamento das bandeiras em silêncio (1 min)
+   - Declaração oficial de encerramento
+   - Convite para próxima edição
 
-5. **Premiação Individual** (20 min)
-   - Convidar senseis de cada time
-   - Senseis pegam caixas com troféus
-   - Distribuem individualmente
-
-6. **Arriar Bandeiras** (5 min)
-   - Bandeira do Brasil
-   - Bandeiras dos clubes
-
-7. **Saída com Música** (5-10 min)
-   - Música: "Golden" - Jungkook
+**14:35-14:40 (5min)** - Saída com música
+   - 🎵 Música: ["Golden Violino"](https://www.youtube.com/watch?v=K0cELD_AdL8)
    - Corredor de pompoms
    - Fotos em grupo
 
 **Responsáveis**:
 - **MC**: Henry/Diogo
-- **Som**: Cláudio (ou apenas para encerramento)
+- **Som**: Cláudio
 - **Sorteio**: Nina (controle dos itens)
-- **Corredor**: Voluntários
+- **Voluntários para orientar entrada**: Nina, Luciano, Juliana
+- **Arriamento de bandeiras**: Henry, Jorge, Fugi, Felipe, Zeka
+- **Mascote**: Animar corredor na entrada
 
-#### 16:00 - 17:00 | Desmontagem
+#### 14:45 - 16:00 | Desmontagem
 - Recolher banners
 - Guardar materiais reutilizáveis
 - Limpeza geral
